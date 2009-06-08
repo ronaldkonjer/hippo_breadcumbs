@@ -43,7 +43,7 @@
     
     <properties>
         <servlet-api.version>2.4</servlet-api.version>
-        <hst.version>2.03.06</hst.version>
+        <hst.version>2.03.07-SNAPSHOT</hst.version>
     </properties>
     
     <build>
